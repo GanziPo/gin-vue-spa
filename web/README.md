@@ -1,4 +1,4 @@
-# ioio
+# gin-vue web
 
 ## Project setup
 ```

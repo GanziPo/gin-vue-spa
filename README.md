@@ -1,5 +1,5 @@
 1. 基本介绍
-
+ gin+vue+bootsrap搭建的web应用，集成登录,注册,jwt鉴权等基础功能
 2. 使用说明
  2.1 web端
    # clone the project

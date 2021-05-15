@@ -3,16 +3,17 @@
 2. 使用说明
  2.1 web端
    # clone the project
-  git clone https://github.com/Sakan-ya/gin-vue-spa.git
+    git clone https://github.com/Sakan-ya/gin-vue-spa.git
 
   # enter the project directory
-  cd web
+    cd web
 
   # install dependency
-  npm install
+    npm install
 
-# develop
-npm run serve
+  # develop
+    npm run serve
+    
  2.2 server端
   # 使用 go.mod
 
